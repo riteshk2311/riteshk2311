@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshk2311" alt="riteshk2311" /> </p>
 
-- 🔭 I’m currently working on **Automation with Ansible**
+- 🔭 I’m currently working on **Automation with Ansible and My Den**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Ansible and ML**
 
-- 👯 I’m looking to collaborate on **My Website**
+- 👯 I’m looking to collaborate on **My Den**
 
 - 🤝 I’m looking for help with **Docker and Website Project**
 
-- 💬 Ask me about **Python ,Html and CSS**
+- 💬 Ask me about **Technical Updates**
 
 - 📫 How to reach me **riteshmons2311@gmail.com**
 
