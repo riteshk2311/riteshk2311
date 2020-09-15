@@ -31,5 +31,5 @@
 <a href="https://www.hackerrank.com/riteshmons2311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="riteshmons2311" height="30" width="30" /></a>
 </p>
 <div align="center">
-### Show some ❤️ by starring some of the repositories!
+❤️ ❤️ 
 </div>
