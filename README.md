@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Docker and Website Project**
 
-- 💬 Ask me about **Technical Updates**
+- 💬 Ask me about **Technical Stuffs**
 
 - 📫 How to reach me **riteshmons2311@gmail.com**
 
