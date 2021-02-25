@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshk2311&layout=compact&hide=html" alt="riteshk2311" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshk2311&show_icons=true" alt="riteshk2311" /></p>
+
 
 <p align="center">
 <a href="https://twitter.com/riteshk2311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="riteshk2311" height="30" width="30" /></a>
