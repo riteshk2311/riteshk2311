@@ -44,15 +44,6 @@
 ❤️ ❤️ 
 </div>
 
-
-
-
 <h3 align="center">A passionate frontend developer from India</h3>
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshk2311&show_icons=true&locale=en&layout=compact" alt="riteshk2311" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshk2311&" alt="riteshk2311" /></p>
