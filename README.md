@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, I'm Ritesh Kumar</h1>
+<h1 align="center">Namaste...Hola.. 👋, I'm Ritesh Kumar</h1>
 <h3 align="center">AatmaNirbhar Aadmi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshk2311" alt="riteshk2311" /> </p>
