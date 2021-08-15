@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshk2311" alt="riteshk2311" /> </p>
 
-- 🔭 I’m currently working on **Automation with Ansible and My Den**
+- 🔭 I’m currently working on **vue.JS , Front-end and My Den**
 
-- 🌱 I’m currently learning **Ansible and ML**
+- 🌱 I’m currently learning **vue.JS**
 
-- 👯 I’m looking to collaborate on **My Den**
+- 👯 I’m looking to collaborate on **My Gallery**
 
-- 🤝 I’m looking for help with **Docker and Website Project**
+- 🤝 I’m looking for help with **vue.JS**
 
 - 💬 Ask me about **Technical Stuffs**
 
