@@ -1,3 +1,4 @@
+<img align="right" src="https://github.com/riteshk2311/riteshk2311/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 <h1 align="center">Namaste...Hola.. 👋, I'm Ritesh Kumar</h1>
 <h3 align="center">AatmaNirbhar Aadmi</h3>
 
