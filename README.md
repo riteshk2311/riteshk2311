@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshk2311&layout=compact&hide=html&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="riteshk2311" /></p><br><br><br><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshk2311&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="riteshk2311" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshk2311&&theme=monokai-metallian&hide_border=true" alt="riteshk2311" /></p>
 
 <p>
 <h3 align="left">Languages and Tools:</h3>
